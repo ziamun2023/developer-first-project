@@ -11,6 +11,7 @@
 /* ________SECTION ONE DESIGN__________ */
 .section-one
 
+
 {display: flex;
  align-items: center;
  justify-content: center;}
@@ -27,6 +28,12 @@
  font-size: 16px;
  color: rgb(55, 47, 37);
   padding-right: 90px;}
+
+  .demo{
+    background: url(/images/person.png);
+    width: 600px;
+    height: 500px;
+  }
 
 /* _____SECTION 02 DESIGN____ */
 .section-two
