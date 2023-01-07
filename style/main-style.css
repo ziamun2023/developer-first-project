@@ -1,0 +1,118 @@
+  *
+  {margin: 0;
+   font-family: 'Open Sans', sans-serif;}
+
+   main
+  {max-width: 1140px;
+    margin: 0 auto;}
+
+
+
+/* ________SECTION ONE DESIGN__________ */
+.section-one
+
+{display: flex;
+ align-items: center;
+ justify-content: center;}
+
+.paragraph-title
+
+{font-weight: 700;
+ font-size: 40px;
+ padding-right: 50px;}
+
+.failure-description
+
+{font-weight: 400;
+ font-size: 16px;
+ color: rgb(55, 47, 37);
+  padding-right: 90px;}
+
+/* _____SECTION 02 DESIGN____ */
+.section-two
+
+{display: flex;
+ justify-content: center;}
+
+.paragraph-title_of_section_two
+
+{text-align: center;
+ margin-top: 45px;
+ margin-bottom: 45px;
+font-weight: 800;
+font-size: 35px;}
+
+
+.plan-items
+
+{text-align: center;
+ padding: 10px 20px;}
+
+.item-title
+
+{text-align: center;}
+
+
+/* _____SECTION 03 DESIGN_______ */
+.section-three
+
+{width: 900px;
+ height: 250px;
+ margin-left: 115px;
+ margin-top: 40px;
+ background-image:  linear-gradient( to right, rgb(193, 198, 29),rgba(0,0,0,0)), 
+url(/images/watch.png);
+ border: 0;
+ border-radius: 8px;
+ margin-bottom: 60px;} 
+
+
+.text_on_watch_img
+
+{color: rgb(42, 17, 17);
+ font-weight: 800;
+ font-size: 40px;
+ padding-top: 50px; 
+ padding-left: 30px;}
+
+.button-for-call
+
+{width: 120px;
+ height: 40px;
+ font-weight: 600;
+ border: 0;
+ border-radius: 5px;
+ background-color: white;
+ color: #005FAC;
+ font-size: 15px;
+ margin-left: 30px;
+ margin-top: 20px;}
+
+
+.button-for-call:hover
+
+{background-color: orange;
+ color: black;}
+
+
+/* ______SECTION 04 DESIGN_______ */
+.project_photo
+
+{height: 162px;
+ width: 253px;}
+
+.project-container
+
+{display: flex;
+ justify-content: center;
+ align-items: center;}
+
+.projects
+
+{margin: 30px 15px 75px 15px;}
+
+.Contact-title
+
+{font-weight: 700;
+font-size: 25px;
+color: white;}

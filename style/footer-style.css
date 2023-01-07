@@ -1,0 +1,55 @@
+*{
+margin: 0;
+font-family: 'Open Sans', sans-serif;
+}
+
+footer
+
+{margin: 0 auto;
+height: 500px;
+background-color: black;
+display: flex;
+justify-content: space-around;
+align-items: center;}
+
+.footer_title{
+
+font-weight: 700;
+font-size: 45px
+}
+
+.footer_description
+
+{color: white;}
+
+.subscribe-title
+
+{color: white;
+font-size: 16px;
+font-weight: 600;}
+
+.email
+{width: 250px;
+height: 35px;
+color: white;
+background-color: black;
+border: 0.5px solid white;
+margin: 8px 0;}
+
+.button_for_subscribe
+
+{height: 35px;
+width: 90px;
+color: rgb(243, 240, 235);
+color: rgb(231, 117, 17);
+border: 0.2 solid white;
+border-radius: 5px;
+font-size: 15px;
+font-weight: 600;}
+
+.footer-icon
+{padding: 10px 10px;}
+
+.button_for_subscribe:hover
+{background-color: RED;
+color: white;}
