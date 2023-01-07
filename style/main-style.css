@@ -63,12 +63,13 @@ font-size: 35px;}
  height: 250px;
  margin-left: 115px;
  margin-top: 40px;
- background-image:  linear-gradient( to right, rgb(193, 198, 29),rgba(0,0,0,0)), 
-url(/images/watch.png);
+ background-image: linear-gradient( to right, rgb(193, 198, 29),rgba(0,0,0,0)) ,url(../images/watch.jpg);
  border: 0;
+ 
  border-radius: 8px;
  margin-bottom: 60px;} 
 
+ 
 
 .text_on_watch_img
 
